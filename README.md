@@ -9,7 +9,7 @@ This is a simple Flutter app demonstrating the implementation of light and dark 
 
 ## Preview
 | Light Mode | Dark Mode |
-| ------------------- | ------------------- | ------------------- |  
+| ------------------- | ------------------- | 
 | ![lightMode](https://github.com/user-attachments/assets/1b0cf13c-bf4b-427d-b340-2b8474725079) | ![darkMode](https://github.com/user-attachments/assets/1604062e-6312-4f00-ae92-de718b79c37e) |
 
 ## Code Overview
